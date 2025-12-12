@@ -5,9 +5,6 @@ I’m passionate about developing reliable and efficient software solutions.
 Welcome to my GitHub profile!
 
 
-
-### 🌐 [Check out my website](https://www.danbvk.net)
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -25,12 +22,3 @@ Welcome to my GitHub profile!
 
 ---
 
-### 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danbvk&show_icons=true&theme=radical)
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/danbvk/count.svg?"  />
-</div>
